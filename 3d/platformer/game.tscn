@@ -258,6 +258,18 @@ physics_material_override = SubResource("2")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 64.0292, 6.70827, 29.8128)
 physics_material_override = SubResource("3")
 
+[node name="Enemy5" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 72.1927, 9.94498, 32.8776)
+physics_material_override = SubResource("3")
+
+[node name="Enemy6" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 72.1927, 9.94498, 27.6537)
+physics_material_override = SubResource("3")
+
+[node name="Enemy7" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 72.1927, 9.94498, 37.3941)
+physics_material_override = SubResource("3")
+
 [node name="Enemy4" parent="Enemies" instance=ExtResource("3_nhwvs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 52.6702, 5.40827, 27.7128)
 physics_material_override = SubResource("4")
