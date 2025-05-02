@@ -108,6 +108,54 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 59.057, 4.24271, 26.9338)
 [node name="Coin24" parent="Coins" instance=ExtResource("2_chew2")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 57.057, 5.86534, 28.9399)
 
+[node name="Coin74" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 28.4813, 13.3373, 25.9503)
+
+[node name="Coin75" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 30.4813, 13.3373, 27.9503)
+
+[node name="Coin76" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 30.4813, 13.3373, 25.9503)
+
+[node name="Coin77" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 28.4813, 13.3373, 27.9503)
+
+[node name="Coin78" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 33.924, 13.3373, 25.9503)
+
+[node name="Coin79" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 35.924, 13.3373, 27.9503)
+
+[node name="Coin80" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 35.924, 13.3373, 25.9503)
+
+[node name="Coin81" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 33.924, 13.3373, 27.9503)
+
+[node name="Coin82" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 38.8719, 13.3373, 25.9503)
+
+[node name="Coin83" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 40.8719, 13.3373, 27.9503)
+
+[node name="Coin84" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 40.8719, 13.3373, 25.9503)
+
+[node name="Coin85" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 38.8719, 13.3373, 27.9503)
+
+[node name="Coin86" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 43.8508, 13.3373, 25.9503)
+
+[node name="Coin87" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 45.8508, 13.3373, 27.9503)
+
+[node name="Coin88" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 45.8508, 13.3373, 25.9503)
+
+[node name="Coin89" parent="Coins" instance=ExtResource("2_chew2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 43.8508, 13.3373, 27.9503)
+
 [node name="Coin8" parent="Coins" instance=ExtResource("2_chew2")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 63.0108, 6.26547, 28.8899)
 
@@ -256,6 +304,26 @@ physics_material_override = SubResource("2")
 
 [node name="Enemy3" parent="Enemies" instance=ExtResource("3_nhwvs")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 64.0292, 6.70827, 29.8128)
+physics_material_override = SubResource("3")
+
+[node name="Enemy5" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 72.1927, 9.94498, 32.8776)
+physics_material_override = SubResource("3")
+
+[node name="Enemy6" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 72.1927, 9.94498, 27.6537)
+physics_material_override = SubResource("3")
+
+[node name="Enemy7" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 72.1927, 9.94498, 37.3941)
+physics_material_override = SubResource("3")
+
+[node name="Enemy8" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 65.8741, 9.94498, 37.3941)
+physics_material_override = SubResource("3")
+
+[node name="Enemy9" parent="Enemies" instance=ExtResource("3_nhwvs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 56.6223, 9.94498, 37.3941)
 physics_material_override = SubResource("3")
 
 [node name="Enemy4" parent="Enemies" instance=ExtResource("3_nhwvs")]
